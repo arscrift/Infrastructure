@@ -6,11 +6,15 @@ This repository contains infrastructure as Terraform configurations.
 
 ## Table of Contents
 
+1. [Overview](#overview)
 1. [Quick start](#quick-start)
 1. [Configure access to AWS account](#configure-access-to-aws-account)
 1. [Create and manage your infrastructure](#create-and-manage-your-infrastructure)
 1. [References](#references)
 
+## Overview
+
+![Infrastructure overview](arscrift.png)
 
 ## Quick start
 
